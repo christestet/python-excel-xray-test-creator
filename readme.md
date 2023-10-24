@@ -1,4 +1,4 @@
-# Create Xray Manual Tests with Exce Data and Python
+# Create Xray Manual Tests with Excel Data and Python
 
 This Script synchronizes manual Tests wirtten in an Excel File to Jira (Xray Testmanagement Plugin)
 
